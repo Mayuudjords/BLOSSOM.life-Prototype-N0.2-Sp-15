@@ -114,7 +114,7 @@ header .fa-bars {
     justify-content: space-between;
     gap: 4rem;
     min-height: 100vh;
-    background: linear-gradient(rgba(255, 245, 248, 0.85), rgba(255, 234, 167, 0.4))
+    background: linear-gradient(rgba(255, 245, 248, 0.85), rgba(255, 234, 167, 0.4));
     background-size: cover;
     background-position: center;
 }
